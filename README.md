@@ -1,1 +1,1 @@
-# MeetupMingleConnect
+# EventbriteMingleConnect
