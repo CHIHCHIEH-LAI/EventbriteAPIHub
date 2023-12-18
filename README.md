@@ -1,1 +1,1 @@
-# EventbriteAPIs
+# EventbriteAPIHub
