@@ -1,3 +1,4 @@
 *cpython*
 settings.json
 .env
+.venv
